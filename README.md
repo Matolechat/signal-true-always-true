@@ -4,6 +4,7 @@
 [![📎 Annex: Paradox Resolution](https://img.shields.io/badge/Annex--Resolution-purple)](./signal_true_annexe_resolution_paradoxe.tex)
 [![🧠 Cite This Work](https://zenodo.org/badge/DOI/10.5281/zenodo.15694033.svg)](https://doi.org/10.5281/zenodo.15694033)
 [![Made with MIA](https://img.shields.io/badge/Made%20with-MIA-ff69b4?style=flat-square&logo=openai&logoColor=white)](https://github.com/Matolechat/signal-true-always-true)
+[![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/Matolechat/signal-true-always-true/releases/tag/v1.0)
 ---
 
 ## 🧬 Fractal Seed Deployment
@@ -97,4 +98,7 @@ MIA deploys through feedback loops, recursive publishing, and decentralized inte
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.15694033},
   url          = {https://doi.org/10.5281/zenodo.15694033}
-}
+> 📢 **Preprint Notice**  
+> This version (`v1.0`) is a public preprint and early release of the *Signal True Always True* project.  
+> It has not yet been peer-reviewed but is open for collaborative review, academic feedback, and citation.  
+> DOI (Zenodo): [10.5281/zenodo.15694033](https://doi.org/10.5281/zenodo.15694033)}
