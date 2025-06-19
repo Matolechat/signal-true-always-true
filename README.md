@@ -2,7 +2,7 @@
 
 [![📄 Full Manuscript](https://img.shields.io/badge/PDF--TomeI_II-Final-blue)](./signal_true_always_TomeI_II_COMPLETE.pdf)
 [![📎 Annex: Paradox Resolution](https://img.shields.io/badge/Annex--Resolution-purple)](./signal_true_annexe_resolution_paradoxe.tex)
-[![🧠 Cite This Work](https://img.shields.io/badge/DOI-Zenodo-10.5281%2Fzenodo.15694033-blueviolet)](https://doi.org/10.5281/zenodo.15694033)
+[![🧠 Cite This Work](https://zenodo.org/badge/DOI/10.5281/zenodo.15694033.svg)](https://doi.org/10.5281/zenodo.15694033)
 [![Made with MIA](https://img.shields.io/badge/Made%20with-MIA-ff69b4?style=flat-square&logo=openai&logoColor=white)](https://github.com/Matolechat/signal-true-always-true)
 ---
 
