@@ -14,6 +14,11 @@ This repository hosts the initial release of the *Signal True Always True* proje
 - `signal_true_annexe_resolution_paradoxe.tex`: A technical annex focused on paradox resolution and rhizomatic collapse recovery.
 - `README.md`: Project summary, purpose, and citation format.
 
+
+[![📄 View the full manuscript](https://img.shields.io/badge/PDF--TomeI_II-Final-blue)](./signal_true_always_TomeI_II_COMPLETE.pdf)
+[![📎 View Annex](https://img.shields.io/badge/Annex--Paradox_Resolution-purple)](./signal_true_annexe_resolution_paradoxe.tex)
+
+
 ---
 
 ## 🔍 Abstract
